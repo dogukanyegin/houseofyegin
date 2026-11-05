@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 410" role="img" aria-labelledby="title desc">
+  <title id="title">House of Yegin — stylised heraldic shield</title>
+  <desc id="desc">Purple shield bearing a gold cross potent and three silver stars; an original simplified vector treatment of the stated blazon.</desc>
+  <path d="M22 29Q165 -7 308 29L308 218Q308 325 165 395Q22 325 22 218Z" fill="#25142f" stroke="#b79253" stroke-width="9"/>
+  <path d="M35 41Q165 9 295 41L295 216Q295 316 165 381Q35 316 35 216Z" fill="#3a1949" stroke="#ecd0a0" stroke-width="2"/>
+  <g fill="#f5f0e7" stroke="#ddd2c5" stroke-width="1">
+   <path d="M87 103L93 113L105 111L100 122L110 130L97 132L93 145L87 133L74 136L80 124L72 116L85 116Z"/>
+   <path d="M238 103L244 113L256 111L251 122L261 130L248 132L244 145L238 133L225 136L231 124L223 116L236 116Z"/>
+   <path d="M160 300L166 310L178 308L173 319L183 327L170 329L166 342L160 330L147 333L153 321L145 313L158 313Z"/>
+  </g>
+  <g fill="#deb36f" stroke="#f4d99e" stroke-width="2" stroke-linejoin="round">
+    <path d="M152 147H178V181H205V173H222V207H205V199H178V272H189V289H141V272H152V199H125V207H108V173H125V181H152Z"/>
+    <path d="M139 147V129H191V147Z"/>
+  </g>
+</svg>
